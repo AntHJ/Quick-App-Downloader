@@ -1,0 +1,9 @@
+url_games https://raw.githubusercontent.com/AntHJ/Quick-App-Downloader/main/PKGj-DB/PSV_GAMES.tsv
+url_updates https://raw.githubusercontent.com/AntHJ/Quick-App-Downloader/main/PKGj-DB/PSV_UPDATES.tsv
+url_dlcs https://raw.githubusercontent.com/AntHJ/Quick-App-Downloader/main/PKGj-DB/PSV_DLCS.tsv
+url_psv_demos https://raw.githubusercontent.com/AntHJ/Quick-App-Downloader/main/PKGj-DB/PSV_DEMOS.tsv
+url_psv_themes https://raw.githubusercontent.com/AntHJ/Quick-App-Downloader/main/PKGj-DB/PSV_THEMES.tsv
+url_psm_games https://raw.githubusercontent.com/AntHJ/Quick-App-Downloader/main/PKGj-DB/PSM_GAMES.tsv
+url_psx_games https://raw.githubusercontent.com/AntHJ/Quick-App-Downloader/main/PKGj-DB/PSX_GAMES.tsv
+url_psp_games https://raw.githubusercontent.com/AntHJ/Quick-App-Downloader/main/PKGj-DB/PSP_GAMES.tsv
+url_psp_dlcs https://raw.githubusercontent.com/AntHJ/Quick-App-Downloader/main/PKGj-DB/PSP_DLCS.tsv
